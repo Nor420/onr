@@ -1,0 +1,76 @@
+body
+{
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather Sans', serif;
+}
+
+h1
+{
+  position:relative;
+  font-family: 'Meriweather Sans', serif;
+}
+
+.pro
+{
+text-decoration: underline;
+}
+
+.top-container
+{
+  position: relative;
+  background-color: #E3FDFD;
+}
+
+.top-cloud
+{
+  position: relative;
+  margin-top: 31px;
+  top: 31px;
+  left: 200px;
+}
+
+.bottom-cloud
+{
+  position: absolute;
+}
+
+.middle-container
+{
+  position: relative;
+  background-color: #E3FDFD;
+}
+
+.bottom-container
+{
+  position: relative;
+  background-color: #E3FDFD;
+}
+
+.btn
+{
+
+font-family: 'Merriweather Sans', serif;
+color: #FFA500;
+}
+
+.first-link
+{
+background: #800000;
+font-family: 'Merriweather Sans', serif;
+color: #FFA500;
+}
+
+.second-link
+{
+background: #800000;
+font-family: 'Merriweather Sans', serif;
+color: #FFA500;
+}
+
+.third-link
+{
+background: #800000;
+font-family: 'Merriweather Sans', serif;
+color: #FFA500;
+}
